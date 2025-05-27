@@ -1,7 +1,7 @@
 # Conso_elec
 
 Preview :
-
+Need first to activate github pages, then go to:
 https://funkydog.github.io/Conso_elec/
 
 OLD:
