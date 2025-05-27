@@ -145,5 +145,5 @@ def print_html():
     p.line(x_data,y_normal, y_range_name="Temp",legend="normal_temp", color='black', line_alpha=1, line_dash='dashed')
     
 
-    output_file("conso_elec.html", title="Inkognito_conso")
+    output_file("index.html", title="Inkognito_conso")
     show(p)
